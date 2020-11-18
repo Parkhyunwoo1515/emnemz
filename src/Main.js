@@ -33,7 +33,7 @@ class Main extends React.Component {
                   <button style={btnstyle} className="header">Service Name</button>
                   <button style={stnstyle} className="header">Writing Room</button>
                   <button style={stnstyle} className="header">Finished Works</button>
-                  <button style={stnstyle} className="header">My Page</button>
+                  <button style={stnstyle} className="header">My Pages</button>
                   <button style={stnstyle}  className="header">Setting</button>
                   <button style={stnstyle} className="header">Logout</button>
                   <hr></hr>
